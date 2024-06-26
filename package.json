@@ -1,0 +1,16 @@
+{
+  "name": "EthWalletManagerBot",
+  "version": "1.0.0",
+  "description": "A bot for distributing ETH on the Arbitrum network.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
